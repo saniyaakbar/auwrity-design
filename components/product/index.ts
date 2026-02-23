@@ -1,0 +1,15 @@
+export { ColorSelector } from "./ColorSelector";
+export { CustomerReviews } from "./CustomerReviews";
+export { FabricQualities } from "./FabricQualities";
+export { FeatureHighlights } from "./FeatureHighlights";
+export { ProductAccordions } from "./ProductAccordions";
+export { ProductFeatures } from "./ProductFeatures";
+export { PersonalizationCard } from "./PersonalizationCard";
+export { PhotoReviews } from "./PhotoReviews";
+export { PriceBlock } from "./PriceBlock";
+export { ProductGallery } from "./ProductGallery";
+export { ProductInfo } from "./ProductInfo";
+export { ProductStory } from "./ProductStory";
+export { ProductVariants } from "./ProductVariants";
+export { QuantitySelector } from "./QuantitySelector";
+export { YouMayAlsoLike } from "./YouMayAlsoLike";
